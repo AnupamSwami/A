@@ -1,0 +1,34 @@
+#body {
+ background-color: darkseagreen;
+}
+
+#heading {
+    color: red;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #fa1302;
+    border-bottom: 10px solid #fa1302;
+    border-left: 6px solid #fa1302;
+    border-right: 6px solid #fa1302;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    height: 300px;
+    width: 1000px;
+}
+
+#send {
+    background-color: transparent;
+    font-size: 40px;
+}
+
+#output {
+    width: auto;
+    height: auto;
+}
