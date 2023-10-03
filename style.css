@@ -22,12 +22,11 @@ h1 {
 }
 
 #login {
-    width: 20%;
-    font-style: italic;
-    color: darkgreen;
-    background-color: darkkhaki;
-    font-family: 'Times New Roman', Times, serif;
-    
+    width: 30%;
+    font-weight: 700;
+    margin-top: 200px;
+    margin-right: 120px;
+    margin-left: 395px;
 }
 
 .login_text {
